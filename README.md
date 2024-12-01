@@ -1,6 +1,6 @@
 # clothes_application
 
-Clother application for lab 1 by Andrej Genchovski 211229
+Clothes application for lab 1 by Andrej Genchovski 211229
 
 ## Getting Started
 
